@@ -2,7 +2,7 @@
 Snake Game 
 Python 3.5+
 
-Libraries Used 
+Libraries Used :-
 Pygame
 tkinter
 random
